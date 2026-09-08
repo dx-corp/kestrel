@@ -52,8 +52,8 @@
     "electron-store": "^11.0.2",
     "electron-updater": "^6.8.9",
     "electron-window-state": "^5.0.3",
-    "framer-motion": "^13.1.1",
-    "lucide-react": "^1.37.0",
+    "framer-motion": "^13.2.0",
+    "lucide-react": "^1.41.0",
     "mobx": "^7.0.3",
     "mobx-react-lite": "^5.0.3",
     "react": "^19.2.8",
@@ -64,7 +64,7 @@
     "sonner": "^2.0.8",
     "tailwind-merge": "^3.6.0",
     "uuid": "^14.0.2",
-    "zod": "^4.5.2"
+    "zod": "^4.5.4"
   },
   "devDependencies": {
     "@electron/rebuild": "^4.2.0",

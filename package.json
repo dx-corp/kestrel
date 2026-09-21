@@ -73,7 +73,7 @@
     "@emnapi/wasi-threads": "^2.1.0",
     "@napi-rs/wasm-runtime": "^1.2.4",
     "@tailwindcss/vite": "^4.3.3",
-    "@types/better-sqlite3": "^7.6.12",
+    "@types/better-sqlite3": "^9.6.0",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
     "@types/uuid": "^11.0.0",

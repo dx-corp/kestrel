@@ -52,7 +52,7 @@
     "electron-store": "^11.0.2",
     "electron-updater": "^6.8.9",
     "electron-window-state": "^5.0.3",
-    "framer-motion": "^13.2.0",
+    "framer-motion": "^14.1.0",
     "lucide-react": "^1.51.0",
     "mobx": "^7.0.6",
     "mobx-react-lite": "^5.1.0",

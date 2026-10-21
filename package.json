@@ -85,7 +85,7 @@
     "electron-vite": "^6.0.0-beta.1",
     "tailwindcss": "^4.1.0",
     "typescript": "^7.0.2",
-    "vite": "^8.3.1"
+    "vite": "^8.3.4"
   },
   "overrides": {
     "@emnapi/core": "$@emnapi/core",
